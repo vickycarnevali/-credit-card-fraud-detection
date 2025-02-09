@@ -24,4 +24,4 @@ Visualized key findings using confusion matrices and ROC curves.
 🚀 Technologies Used
 Python
 Google Colab
-Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
